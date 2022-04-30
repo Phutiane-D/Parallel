@@ -1,0 +1,3 @@
+/home/phutiane/Desktop/High Performance/Assignment/cmake-build-debug/CMakeFiles/Assignment.dir
+/home/phutiane/Desktop/High Performance/Assignment/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/phutiane/Desktop/High Performance/Assignment/cmake-build-debug/CMakeFiles/rebuild_cache.dir
